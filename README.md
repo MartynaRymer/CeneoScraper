@@ -33,4 +33,4 @@
 |Data wystawienia opinii|span.user-post__published > time:nth-child(1)`["datetime"]`|publish_date||\
 +--------------+------------+--------------+----------+\
 |Data zakupu produktu|span.user-post__published > time:nth-child(2)`["datetime"]`|purchase_date||\
-+--------------+------------+--------------+----------+\
++--------------+------------+--------------+----------+
