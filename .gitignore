@@ -133,3 +133,6 @@ dmypy.json
 
 # catalog with opinions
 opinions/
+
+# catalog with plots
+plots/
